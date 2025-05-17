@@ -1,0 +1,16 @@
+"Butterfly Knife" "Marble Fade" 297 0.000000364056
+"Butterfly Knife" "Marble Fade" 8 0.009849419817
+"Gut Knife" "Fade" 384 0.000000495844
+"Gut Knife" "Doppler (Phase 4)" 931 0.000001039837
+"Karambit" "Doppler" 695 0.000003854548
+"Flip Knife" "Tigher Tooth" 238 0.000005551312
+"Bowie Knife" "Doppler (Phase 4)" 623 0.000006179427
+"Hunstman Knife" "Freehand" 606 0.000006433819
+"Ursus Knife" "Fade" 187 0.000006947062
+"Survival Knife" "Tiger Tooth" 873 0.000008084975
+"Bowie Knife" "Gamma Doppler (Phase 2)" 314 0.000008740270
+"Falchion Knife" "Gamma Doppler (Phase 2)" 603 0.000008877571
+"Ursus Knife" "Tiger Tooth" 412 0.000009740491
+"Bowie Knife" "Doppler (Black Pearl)" 812 0.035205218941
+"Butterfly Knife" "Doppler (Phase 3)" 573 0.079574875534
+"Karambit" "Gamma Doppler (Phase 3)" 159 0.013063047081
